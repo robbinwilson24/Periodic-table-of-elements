@@ -5,7 +5,7 @@ A simple, yet visually appealing Periodic table, that I have coded using HTML an
 1. [Description](#program-description)
 2. [Features](#features)
 3. [Technologies Used](#technologies)
-4. [How to use / Install}(#install)
+4. [How to use / Install](#install)
 5. [Credits](#credits)
 
 
