@@ -34,7 +34,6 @@ This project was created using the following technologies:
 Installing and viewing this webpage is extremely easy. 
 
 - Simply copy the repository to your local machine.
-- Extract the files from the zipped folder. 
 - Open periodicTable.html (which should open in your browser).
 
 ## Credits <a name="credits"/>
